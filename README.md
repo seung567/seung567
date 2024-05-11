@@ -2,6 +2,8 @@
 
   ![header](https://capsule-render.vercel.app/api?text=Bri%20TechNote&fontColor=FFFFFF&stroke=000000&strokeWidth=2&type=waving&color=0:B7FFC7,100:BBD5FB&animation=twinkling)
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
 <!--
