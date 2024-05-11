@@ -14,7 +14,7 @@
   <!-- 언어 -->
   <img alt="Java" src ="https://img.shields.io/badge/Java-FF9950.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="\JSP" src ="https://img.shields.io/badge/Servlet-030303.svg?&style=for-the-badge&logo=JSP&logoColor=white"/>
+  <img alt="jsp" src ="https://img.shields.io/badge/Servlet-030303.svg?&style=for-the-badge&logo=JSP&logoColor=white"/>
   <img alt="Servlet" src ="https://img.shields.io/badge/Servlet-030303.svg?&style=for-the-badge&logo=Servlet&logoColor=white"/>
   <img alt="XML" src ="https://img.shields.io/badge/XML-041E42.svg?&style=for-the-badge&logo=XML&logoColor=white"/>
   <img alt="Ajax" src ="https://img.shields.io/badge/Ajax-4B4B77.svg?&style=for-the-badge&logo=Ajax&logoColor=white"/>
