@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 
-  ![header](https://capsule-render.vercel.app/api?text=BriTechNote](https://capsule-render.vercel.app/api?text=Bri%20TechNote&fontColor=FFFFFF&stroke=000000&strokeWidth=2&type=waving&color=0:B7FFC7,100:BBD5FB&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?text=Bri%20TechNote&fontColor=FFFFFF&stroke=000000&strokeWidth=2&type=waving&color=0:B7FFC7,100:BBD5FB&animation=twinkling)
 
 ### Hi there 👋
 
