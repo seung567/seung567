@@ -1,5 +1,5 @@
 <!-- 타이틀 -->
-![header](https://capsule-render.vercel.app/api?text=Dev%20TechNote&fontColor=FFFFFF&stroke=000000&strokeWidth=2&type=waving&color=0:B7FFC7,100:BBD5FB&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?text=TechNote.Dev&fontColor=FFFFFF&stroke=000000&strokeWidth=2&type=waving&color=0:B7FFC7,100:BBD5FB&animation=twinkling)
 
 <!-- 서브 타이틀 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4980&pause=1000&color=000000&random=true&width=435&lines=%EB%82%98%EC%9D%98+%EA%B8%B0%EC%88%A0+%EB%A9%94%EB%AA%A8+%EA%B3%B5%EA%B0%84)](https://git.io/typing-svg)
