@@ -12,8 +12,8 @@
   <!-- 뱃지 -->
   <h2>Lang / Etc</h2>
   <!-- 언어 -->
-<img alt='Java' src ='https://img.shields.io/badge/Java-FF9950.svg?&style=for-the-badge&logo=Java&logoColor=white/>
-<img alt='Python' src ='https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-FF9950.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   
   
 </div>
