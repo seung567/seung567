@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 
-  ![header](https://capsule-render.vercel.app/api?text=BriWorld&type=rect&color=gradient)
+  ![header](https://capsule-render.vercel.app/api?text=BriWorld&type=rect&color=gradient&theme=radical)
 
 ### Hi there 👋
 
