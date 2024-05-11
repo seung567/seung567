@@ -1,6 +1,6 @@
 <!-- 타이틀 -->
 
-  ![header](https://capsule-render.vercel.app/api?type=slice)
+  ![header](https://capsule-render.vercel.app/api?type=rect)
 
 ### Hi there 👋
 
