@@ -1,6 +1,6 @@
 
   <!-- 타이틀 -->
-  ![header](https://capsule-render.vercel.app/api?text=Welcome-nl-BRI%20GitHub&fontColor=FFFFFF&stroke=000000&strokeWidth=2&type=waving&color=0:B7FFC7,100:BBD5FB&animation=twinkling&&fontAlign=30&height=180&strokeWidth=0)
+  <img src="https://capsule-render.vercel.app/api?text=Welcome-nl-BRI%20GitHub&fontColor=FFFFFF&stroke=000000&strokeWidth=2&type=waving&color=0:B7FFC7,100:BBD5FB&animation=twinkling&&fontAlign=30&height=180&strokeWidth=0"/>
 <div align="left">
   <!-- 서브 타이틀 -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? 
