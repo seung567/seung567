@@ -4,6 +4,9 @@
 <!-- 서브 타이틀 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=%EB%8B%A4%EC%96%91%ED%95%9C+%EA%B8%B0%EC%88%A0%2C+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8+%EC%A0%80%EC%9E%A5+Git+Hub)](https://git.io/typing-svg)
 
+<!-- 뱃지 -->
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 ### Hi there 👋
 
 <!--
