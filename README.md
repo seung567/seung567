@@ -11,7 +11,7 @@
 <div>
   <h1>I've used once</h1>
   <!-- 뱃지 -->
-  <h2>Lang - Main</h2>
+  <h3>Lang</h3>
   <!-- 언어 -->
   <img alt="Java" src ="https://img.shields.io/badge/Java-FF9950.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
