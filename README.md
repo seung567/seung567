@@ -9,7 +9,7 @@
 <br/>
 
 <div>
-  <h1>🔭I've used once</h1>
+  <h1>🔨I've used once</h1>
   <!-- 뱃지 -->
   <h2>Lang</h2>
   <!-- 언어 -->
