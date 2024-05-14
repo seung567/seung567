@@ -14,7 +14,6 @@
   <!-- 언어 -->
   <img alt="Java" src ="https://img.shields.io/badge/Java-FF9950.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <!-- <img alt="jsp" src ="https://img.shields.io/badge/Servlet-030303.svg?&style=for-the-badge&logo=jsp&logoColor=white"/> -->
   <img alt="Servlet" src ="https://img.shields.io/badge/Servlet-030303.svg?&style=for-the-badge&logo=Servlet&logoColor=white"/>
   <img alt="XML" src ="https://img.shields.io/badge/XML-041E42.svg?&style=for-the-badge&logo=XML&logoColor=white"/>
   <img alt="Ajax" src ="https://img.shields.io/badge/Ajax-4B4B77.svg?&style=for-the-badge&logo=Ajax&logoColor=white"/>
@@ -27,14 +26,20 @@
   <img alt="PL/SQL" src ="https://img.shields.io/badge/PL/SQL-273A60.svg?&style=for-the-badge&logo=PL/SQL&logoColor=white"/>
 
   <h2>FrameWork</h2>
-    <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-    <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-    <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-    <img alt="Mybatis" src ="https://img.shields.io/badge/Mybatis-6100A5.svg?&style=for-the-badge&logo=Mybatis&logoColor=white"/>
+  <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+  <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img alt="Mybatis" src ="https://img.shields.io/badge/Mybatis-6100A5.svg?&style=for-the-badge&logo=Mybatis&logoColor=white"/>
   
   <h2>Database</h2>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
+
+  <h2>Tools</h2>
+  <img alt="eclipseide" src ="https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img alt="anaconda" src ="https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img alt="dbeaver" src ="https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white"/>
 </div>
 
 
