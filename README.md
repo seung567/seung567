@@ -48,7 +48,7 @@
   ### Tools
   <img alt="eclipseide" src ="https://img.shields.io/badge/eclipseide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/>
   <img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
+  <br/>
   <img alt="anaconda" src ="https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img alt="dbeaver" src ="https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white"/>
   <img alt="SQL Developer" src ="https://img.shields.io/badge/SQL Developer-000000.svg?&style=for-the-badge&logo=SQL Developer&logoColor=white"/>
