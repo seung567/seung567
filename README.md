@@ -2,7 +2,7 @@
 <div align="left">
 
 <!-- Main -->
-<img src="https://capsule-render.vercel.app/api?text=Hi%20there&fontAlignY=40&desc=SeungMinGitHubSpace&descAlign=70&fontColor=FFFFFF&type=venom&color=0:B7FFC7,100:BBD5FB&animation=twinkling&height=180"/>
+<img src="https://capsule-render.vercel.app/api?text=Hi%20there&fontAlignY=40&desc=Seung%20Min%20GitHub%20Space&descAlign=70&fontColor=FFFFFF&type=venom&color=0:B7FFC7,100:BBD5FB&animation=twinkling&height=180"/>
 
 <!-- Sub -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&background=FFFEFE00&random=false&width=435&lines=My+technical+space" alt="Typing SVG"/></a>
