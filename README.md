@@ -54,7 +54,6 @@
   <img alt="SQL Developer" src ="https://img.shields.io/badge/SQL Developer-000000.svg?&style=for-the-badge&logo=SQL Developer&logoColor=white"/>
 </div>
 
----
 <br/>
 
 <span align=center>
