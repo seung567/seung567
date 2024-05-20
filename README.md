@@ -71,6 +71,9 @@
 ### Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seung567&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=seung567)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=seung567)](https://solved.ac/seung567)
 
