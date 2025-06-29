@@ -17,6 +17,7 @@
   ### Lang 
 
   <!-- 언어 -->
+  <!--
   <img alt="Java" src ="https://img.shields.io/badge/Java-FF9950.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="Servlet" src ="https://img.shields.io/badge/Servlet-030303.svg?&style=for-the-badge&logo=Servlet&logoColor=white"/>
@@ -32,9 +33,10 @@
   <br/>
   <img alt="SQL" src ="https://img.shields.io/badge/SQL-0E353D.svg?&style=for-the-badge&logo=SQL&logoColor=white"/>
   <img alt="PL/SQL" src ="https://img.shields.io/badge/PL/SQL-273A60.svg?&style=for-the-badge&logo=PL/SQL&logoColor=white"/>
-  
+  -->
   <!-- 프레임워크 -->
 
+  <!--
   ### FrameWork
   <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
@@ -53,7 +55,7 @@
   <img alt="dbeaver" src ="https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white"/>
   <img alt="SQL Developer" src ="https://img.shields.io/badge/SQL Developer-000000.svg?&style=for-the-badge&logo=SQL Developer&logoColor=white"/>
 </div>
-
+-->
 <br/>
 
 <span align=center>
