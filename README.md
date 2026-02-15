@@ -43,10 +43,18 @@
 
 ### 📊 Github Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=seung567&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seung567&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+### 📊 Github Stats & Activity
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=seung567&show_icons=true&theme=radical&height=165" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seung567&layout=compact&theme=radical&height=165" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
