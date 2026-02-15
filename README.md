@@ -1,7 +1,6 @@
-# 👨‍💻 [이름/닉네임] | Java Backend Specialist
+# 👨‍💻 | Java Backend Specialist
 
 > **기존 시스템의 안정적 운영(Legacy)과 최신 기술로의 전환(Modernization) 사이의 가교 역할을 수행합니다.** <br/>
-> 복잡한 데이터 구조를 최적화하고, 안정적인 API 기반 인프라를 구축하는 데 보람을 느낍니다.
 
 ---
 
@@ -31,7 +30,7 @@
 
 - 🔄 **System Conversion:** 서로 다른 DBMS 간의 SQL 변환 및 데이터 마이그레이션 전략 수립에 경험이 있습니다.
 - 📈 **Performance Tuning:** Stored Procedure 및 인덱스 최적화를 통한 대용량 데이터 처리 성능 개선을 추구합니다.
-- 🛡️ **System Stability:** ESB 로그 분석 및 API Gateway 설계를 통해 시스템 간 통신의 신뢰성을 확보합니다.
+- 🛡️ **System Stability:** ESB 를 활용한 마이크로 서비스 구성과 개발 및 API Gateway 설계를 통해 시스템 간 통신의 신뢰성을 확보합니다.
 - 🏗️ **Infrastructure Insight:** 폐쇄망 환경의 빌드 프로세스 개선 및 시스템 모니터링 라이브러리(OSHI) 활용 등 서버 내부 아키텍처에도 관심이 많습니다.
 
 ---
