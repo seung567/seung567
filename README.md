@@ -40,11 +40,6 @@
 - 🌱 **Learning:** 클린 코드 실천과 객체 지향 원칙을 지키는 견고한 백엔드 설계 공부 중
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=seung567's%20Backend&fontSize=70" />
-</p>
-
----
 
 ### 📊 Github Stats & Activity
 
