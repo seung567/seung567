@@ -42,7 +42,7 @@
 ---
 ### 📊 Github Stats & Activity
 
-<table align="center">
+<table align="center" border="0px">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=seung567&show_icons=true&theme=radical&height=165" alt="GitHub Stats" />
