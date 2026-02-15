@@ -8,9 +8,10 @@
 ### 🎨 My Interests & Activities
 
 **Broad Tech Spectrum**
-* **Languages:** 새로운 언어가 주는 철학에 관심이 많아 Java 외에도 Python, JavaScript 등 다양한 도구를 살펴봅니다.
-* **Environments:** 프로젝트의 목적에 따라 Spring Boot부터 Legacy 환경, 그리고 폐쇄망 인프라까지 가리지 않고 뛰어듭니다.
-* **Data Storytelling:** 단순한 DB 관리를 넘어, 데이터가 어떻게 흐르고 변환되어 가치가 만드는지 탐구합니다.
+* **Frontend Evolution:** **React**와 **Vite**를 활용해 빠르고 사용자 친화적인 인터페이스를 구축하는 것에 흥미를 느낍니다.
+* **Styling & UI:** **CSS 프레임워크**를 사용하여 효율적이고 일관된 디자인 시스템을 구현하는 과정을 즐깁니다.
+* **Backend Stability:** **Spring Boot**와 **Legacy** 환경을 모두 경험하며 서비스의 뼈대를 튼튼하게 다집니다.
+* **Data Storytelling:** 단순한 DB 관리를 넘어, **Oracle**과 **PostgreSQL** 등 다양한 환경에서 데이터가 가치를 만드는 과정을 탐구합니다.
 
 **Beyond the Code**
 * 💡 **Problem Solver:** "왜?"라는 질문을 던지며 시스템의 병목을 찾아내고 최적화하는 과정 자체를 즐깁니다.
@@ -22,12 +23,13 @@
 ### 🛠 Tools I've Explored
 
 <p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
