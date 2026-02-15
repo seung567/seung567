@@ -1,43 +1,41 @@
-# 👨‍💻 | Java Backend Specialist
+# 🌟 seung567 | Versatile Developer & Explorer
 
-> **기존 시스템의 안정적 운영(Legacy)과 최신 기술로의 전환(Modernization) 사이의 가교 역할을 수행합니다.** <br/>
+> **"오늘보다 더 넓은 세상을 배우는 것을 즐깁니다."**
+> 특정 기술에 갇히지 않고, 문제 해결을 위해 다양한 도구와 관점을 활용하는 것을 지향합니다.
 
 ---
 
-### 🛠 Technical Deep Dive
+### 🎨 My Interests & Activities
 
-**Backend & Frameworks**
+**Broad Tech Spectrum**
+* **Languages:** 새로운 언어가 주는 철학에 관심이 많아 Java 외에도 Python, JavaScript 등 다양한 도구를 살펴봅니다.
+* **Environments:** 프로젝트의 목적에 따라 Spring Boot부터 Legacy 환경, 그리고 폐쇄망 인프라까지 가리지 않고 뛰어듭니다.
+* **Data Storytelling:** 단순한 DB 관리를 넘어, 데이터가 어떻게 흐르고 변환되어 가치가 만드는지 탐구합니다.
+
+**Beyond the Code**
+* 💡 **Problem Solver:** "왜?"라는 질문을 던지며 시스템의 병목을 찾아내고 최적화하는 과정 자체를 즐깁니다.
+* 🏃 **Active Learner:** 가계부 서비스 설계부터 새로운 툴 탐색까지, 아이디어를 직접 구현하며 배웁니다.
+* 📱 **Trend Watcher:** 최신 모바일 기기나 주변 기기 등 IT 트렌드 전반에 관심이 많습니다.
+
+---
+
+### 🛠 Tools I've Explored
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Legacy-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-**Database & Data Engineering**
-- **Expertise:** Oracle, PostgreSQL, MS-SQL
-- **Capabilities:** SQL Conversion (Oracle ↔ MS-SQL), Stored Procedure Optimization, Large-scale Data Insertion
-- **ORM/Mapping:** MyBatis, JPA
-
-**Infrastructure & Tooling**
-- **Systems:** ESB(Enterprise Service Bus), API Gateway, System Monitoring (OSHI)
-- **Build & CI/CD:** Maven (Closed Network environment), Ant, GitHub Actions
-- **IDE:** IntelliJ, VS Code (Spring Development Environment)
-
 ---
 
-### 🚀 Key Strengths & Interests
-
-- 🔄 **System Conversion:** 서로 다른 DBMS 간의 SQL 변환 및 데이터 마이그레이션 전략 수립에 경험이 있습니다.
-- 📈 **Performance Tuning:** Stored Procedure 및 인덱스 최적화를 통한 대용량 데이터 처리 성능 개선을 추구합니다.
-- 🛡️ **System Stability:** ESB 를 활용한 마이크로 서비스 구성과 개발 및 API Gateway 설계를 통해 시스템 간 통신의 신뢰성을 확보합니다.
-- 🏗️ **Infrastructure Insight:** 폐쇄망 환경의 빌드 프로세스 개선 및 시스템 모니터링 라이브러리(OSHI) 활용 등 서버 내부 아키텍처에도 관심이 많습니다.
-
----
-
-### 📂 Current Projects & Goals
-- 💰 **Personal Project:** 가계부(Household Account) 관리 시스템 고도화 및 DB 스키마 설계 진행 중
-- 🌱 **Learning:** 클린 코드 실천과 객체 지향 원칙을 지키는 견고한 백엔드 설계 공부 중
+### 📂 Current Journey
+* 🏠 **Personal Project:** 나만의 가계부 시스템을 만들며 사용자 경험(UX)과 데이터 설계의 조화를 실험 중입니다.
+* 📚 **Continuous Growth:** 더 읽기 좋은 코드, 더 유연한 설계를 위해 다양한 개발 아티클을 섭렵하고 있습니다.
 
 ---
 
@@ -51,6 +49,6 @@
 
 ---
 
-### 📫 Contact
+### 📫 Stay in Touch
 * 📧 **Email:** 94yoos@naver.com
-* 📝 **Blog:** 흠...언제가는....
+* 📝 **Blog:** 기록의 가치를 믿기에, 차근차근 시작해 보려 합니다.
