@@ -44,11 +44,8 @@
 ### 📊 Github Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seung567&show_icons=true&theme=radical" alt="seung567's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seung567&layout=compact&theme=radical" alt="seung567's Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=seung567&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=seung567&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
