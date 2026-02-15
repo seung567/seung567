@@ -44,12 +44,12 @@
 ### 📊 Github Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seung567&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seung567&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Contact
-* 📧 **Email:** [이메일 주소]
-* 📝 **Blog:** [블로그 주소]
+* 📧 **Email:** 94yoos@naver.com
+* 📝 **Blog:** 흠...언제가는....
