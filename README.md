@@ -40,9 +40,6 @@
 - 🌱 **Learning:** 클린 코드 실천과 객체 지향 원칙을 지키는 견고한 백엔드 설계 공부 중
 
 ---
-
-### 📊 Github Stats & Activity
-
 ### 📊 Github Stats & Activity
 
 <table align="center">
